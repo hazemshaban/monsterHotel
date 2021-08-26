@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1629854304 source:c:\users\acer\desktop\codeblocks\monsterhotel\src\hotal.cpp
+	"Hotal.h"
+
+1629855960 c:\users\acer\desktop\codeblocks\monsterhotel\include\hotal.h
+
+1629904367 source:c:\users\acer\desktop\codeblocks\monsterhotel\src\guest.cpp
+	"Guest.h"
+	<string>
+
+1629860114 c:\users\acer\desktop\codeblocks\monsterhotel\include\guest.h
+	<string>
+
+1629858727 source:c:\users\acer\desktop\codeblocks\monsterhotel\src\rooms.cpp
+	"Rooms.h"
+
+1629858727 c:\users\acer\desktop\codeblocks\monsterhotel\include\rooms.h
+
+1629994655 source:c:\users\acer\desktop\codeblocks\monsterhotel\main.cpp
+	<iostream>
+	<Guest.h>
+	<Rooms.h>
+	<Monster.h>
+	<Human.h>
+	<vector>
+
+1629904706 source:c:\users\acer\desktop\codeblocks\monsterhotel\src\human.cpp
+	"Human.h"
+
+1629855960 c:\users\acer\desktop\codeblocks\monsterhotel\include\human.h
+	<Guest.h>
+
+1629904706 source:c:\users\acer\desktop\codeblocks\monsterhotel\src\monster.cpp
+	"Monster.h"
+	<string>
+
+1629855960 c:\users\acer\desktop\codeblocks\monsterhotel\include\monster.h
+	<Guest.h>
+
